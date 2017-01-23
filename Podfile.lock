@@ -1,0 +1,15 @@
+PODS:
+  - CircularSlider (1.1.2)
+  - VerticalSlider (1.0.0)
+
+DEPENDENCIES:
+  - CircularSlider
+  - VerticalSlider
+
+SPEC CHECKSUMS:
+  CircularSlider: 448f9f7723b845ccd470dac41981feb192e20c50
+  VerticalSlider: d0e269208ce7aa98e0273c0d244e9625d603b75e
+
+PODFILE CHECKSUM: 12b668d293584d02f5e12812c87fe03d0923b5c5
+
+COCOAPODS: 1.1.1
